@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20121
-Fork on GitHub
-6088
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Bhusan</h1>
 <h3 align="center">A explorer in the field of Data Science and App Development.</h3>
 
